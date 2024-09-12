@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218.88" height="166.86" viewBox="0 0 218.88 166.86">
+  <g id="Group_110220" data-name="Group 110220" transform="translate(-9891 -765)">
+    <rect id="Rectangle_35596" data-name="Rectangle 35596" width="218.88" height="166.86" transform="translate(9891 765)" fill="none"/>
+    <g id="Group_110201" data-name="Group 110201" transform="translate(6.345 5)">
+      <g id="Group_110200" data-name="Group 110200" transform="translate(12480.054 1170.2)">
+        <path id="Path_142932" data-name="Path 142932" d="M-2034.4,411.688l5.629-16.888,25.332,25.331-8.444,14.073-11.258-11.258h-5.629" transform="translate(-488.741 -733.112)" fill="#00e8ff"/>
+        <path id="Path_142933" data-name="Path 142933" d="M-2511.883,178.575V156.058l11.258-11.258v22.517m-28.146,0h5.629l5.629,11.258-5.629,11.258-11.259-11.258Z" transform="translate(0 -488.742)" fill="#283198" fill-rule="evenodd"/>
+        <path id="Path_142934" data-name="Path 142934" d="M-2523.141-321.425v-22.517l11.258-11.258v22.517m11.258,33.775v-22.517l11.259-11.258v22.517m-45.034,0v-22.517l11.259,11.258" fill="#324fff"/>
+        <path id="Path_142935" data-name="Path 142935" d="M-2034.4,1167.317V1144.8l11.259,11.259" transform="translate(-488.741 -1466.225)" fill="aqua"/>
+      </g>
+      <text id="lit" transform="translate(10024 857)" fill="#2a2628" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-18" y="0">Lit</tspan></text>
+    </g>
+  </g>
+</svg>

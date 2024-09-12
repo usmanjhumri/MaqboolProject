@@ -1,0 +1,45 @@
+.contained {
+  width: 80%;
+  position: absolute;
+  top: 0px;
+  padding: 20px;
+  transform: translate(-80%, -50%);
+  visibility: hidden;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 20px;
+  display: none;
+  transition: 0.5s;
+  z-index: 100;
+
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.activehov {
+  padding: 7px 15px;
+  font-weight: 600;
+  font-size: 15px;
+  color: #5d7e96 !important;
+}
+.activehov:hover .contained {
+  visibility: visible;
+  display: flex;
+  top: 400px !important;
+}
+
+@media only screen and (max-width: 1000px) {
+  .contained {
+    flex-wrap: wrap;
+    top: 500px;
+
+    max-height: 900px;
+    overflow: scroll;
+  }
+  .activehov:hover .contained {
+    visibility: visible;
+    display: flex;
+    top: 500px !important;
+  }
+}

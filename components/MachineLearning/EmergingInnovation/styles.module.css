@@ -1,0 +1,51 @@
+.container {
+
+    display: flex;
+    align-items: center;
+   
+    justify-content: center;
+}
+
+.subcontainer {
+    width: 100%;
+    max-width: 1280px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+    text-align: center;
+}
+
+.contentContainer{
+    width: 100%;
+   
+    padding: 20px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+}
+.contentBox{
+    width: 100%;
+    padding: 20px;
+   
+
+}
+.imageContainer{
+    width: 100%;
+    padding: 20px;
+   
+
+}
+.listContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 10px;
+    flex-wrap: wrap;
+}
